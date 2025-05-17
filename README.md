@@ -1,5 +1,5 @@
 # SERIAL-IN-SERIAL-OUT-SHIFTREGISTER
-# DATE: 3/12/2024 
+# DATE: 07/05/24
 **AIM:**
 
 To implement  SISO Shift Register using verilog and validating their functionality using their functional tables
